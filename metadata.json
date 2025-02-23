@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"2.4.7","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2025-02-23T11:57:41.593Z","userMetadata":{},"modelName":"Separador de plásticos","labels":["PET","HDPE","LDPA","other","PP","PS","PVC","no es plástico"],"imageSize":224}
